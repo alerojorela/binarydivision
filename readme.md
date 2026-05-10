@@ -1,5 +1,7 @@
 # Binary division diagram
 
+> **This project is no longer maintained.** It has been merged into [Hierarchical Diagram Builder](https://github.com/alerojorela/hierarchical-diagram-builder).
+
 This app renders a tree diagram of a recursive **binary structure**. No more than two children per node are allowed. It has a distinctive formalism based on triangles.
 
 
